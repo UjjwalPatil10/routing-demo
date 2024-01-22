@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Decentro",
+    "profile": "Software Engineer",
+    "description": "Automated API platform for banking integrations",
+    "city": "Pune",
+    "thumbnail": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2022/05/image5-3.png?auto=format&q=60&fit=max&w=930"
+  },
+
+  {
+    "id": 2,
+    "name": "Zamp",
+    "profile": "Product Manager",
+    "description": "Banking and payments for the global economy",
+    "city": "Mumbai",
+    "thumbnail": "https://www.rd.com/wp-content/uploads/2019/01/beats.jpg?fit=700,700"
+  },
+
+  {
+    "id": 3,
+    "name": "Thrive by Hashtag Loyalty",
+    "profile": "Engineering Manager",
+    "description": "Online ordering platform empowering restaurants to reduce their dependence on aggregators",
+    "city": "Pune",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0n4ODoAIA--3sUNXFOtz78IfoaPwViociyQ&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "name": "MediaMelon",
+    "profile": "Product Manager",
+    "description": "B2B SaaS Data Platform for Video Streaming (OTT) Analytics",
+    "city": "Mumbai",
+    "thumbnail": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/company-logos-design-template-3b01eb4c6758c5365fe758fe4e776a94_screen.jpg?ts=1610529432"
+  },
+  {
+    "id": 5,
+    "name": "BabyChakra",
+    "profile": "Mobile Engineer",
+    "description": "The Trusted Care Companion for Indian Parents",
+    "city": "Kolhapur",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfBHyuf_bJCZp8l1H7u1JJDjkaGnv7_N1IAw&usqp=CAU"
+  }
+]
